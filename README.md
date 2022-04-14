@@ -18,24 +18,25 @@ const siegfrito = {
         pronouns: 'he' | 'him',
         hobbiesAndInterests: ['poetry', 'games', 'podcasts', 'history', 'RolePlaying Games', 'Literature'],
         motivation: [
-            'Learn, learn, learn, be happy!',
+            'Learn, learn, learn and be happy!',
             'Making technology become more and more human and welcoming for everyone.',
         ],
     },
     technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS Basics and improving'],
-                HTML: ['HTML5 Basics and improving'],
-                CSS: ['CSS3 Basics and improving'],
+        frontEnd: {
+            Javascript: ['Vanilla JS Basics and improving'],
+            HTML: ['HTML5 Basics and improving'],
+            CSS: ['CSS3 Basics and improving'],
             },
-            backEnd: {
-                Javascript: ['Node.js Basics and improving']
-            },
-            databases: ['MySQL', 'SQL Server'],
+        backEnd: {
+            Javascript: ['Node.js Basics and improving'],
         },
+        databases: {
+            ['MySQL', 'SQL Server'],
+        }
     }
 }
+
 ```
 
   </div>
