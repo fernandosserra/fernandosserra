@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="" />
+<img src="https://github.com/fernandosserra/fernandosserra/blob/main/lofi_me.jpg?raw=true" />
 
 I'm a Student @ [FAM](https://vemprafam.com.br/).
 
