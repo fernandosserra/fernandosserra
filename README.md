@@ -4,7 +4,7 @@
   
 <img src="https://github.com/fernandosserra/fernandosserra/blob/main/lofi_me.jpg?raw=true" />
 
-I'm a Student at @ [FAM](https://vemprafam.com.br/).
+I'm a Student at [FAM](https://vemprafam.com.br/).
 
 <details>
   <summary> More about me</summary>
