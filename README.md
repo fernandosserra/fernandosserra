@@ -44,7 +44,7 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 ## Curiosidades sobre mim / My Trivia
 
 - Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.com)
-- I maintain a poetry, gastronomy and culture podcast called:[Poesia de Cozinha](https://poesiadecozinha.com)
+- I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.com)
 - Gosto de escrever artigos para ajudar as pessoas, atualmente publico em Português no [Medium](https://siegrfried.medium.com)
 - I like to write articles to help people, I currently publish in English on [Dev.To](https://dev.to/fernandosserra)
 - Sou pai, casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em atuar como desenvolvedor e meu grande objetivo é tornar a tecnologia mais humana e desenvolver programas que sejam bons exemplos de acessibilidade.
