@@ -23,6 +23,12 @@ Information Technology Management Student at FAM - Centro Universit√°rio das Am√
 I like computing, poetry, games, learning about other cultures, peoples, languages and literature.
 ```
 
+## Projetos ativos no momento / Currently active projects
+
+- Dio Campus Expert <img src="https://progress-bar.dev/<50>" />
+- [] Bootcamp Philips "You Are You" <img src="https://progress-bar.dev/<90>" />
+- [] Podcast Poesia de Cozinha <img src="https://progress-bar.dev/<100>" />
+
 ## Estudando atualmente / Currently studying
 
   - HTML
