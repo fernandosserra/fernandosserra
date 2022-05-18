@@ -25,7 +25,7 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 
 ## Projetos ativos no momento / Currently active projects
 
-<img src="https://progress-bar.dev/20/?title=Dio Campus Expert" />
+<img src="https://progress-bar.dev/40/?title=Dio Campus Expert" />
 
 <img src="https://progress-bar.dev/100/?title=Podcast Poesia de Cozinha" />
 
