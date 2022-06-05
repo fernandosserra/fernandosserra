@@ -25,11 +25,11 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 
 ## Projetos ativos no momento / Currently active projects
 
-<img src="https://progress-bar.dev/40/?title=Dio Campus Expert" />
+<img src="https://progress-bar.dev/80/?title=Dio Campus Expert" />
 
 <img src="https://progress-bar.dev/100/?title=Podcast Poesia de Cozinha" />
 
-<img src="https://progress-bar.dev/58/?title=Bootcamp Philips - You Are You" />
+<img src="https://progress-bar.dev/100/?title=Bootcamp Philips - You Are You" />
 
 ## Estudando atualmente / Currently studying
 
