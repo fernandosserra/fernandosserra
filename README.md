@@ -25,7 +25,7 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 
 ## Projetos ativos no momento / Currently active projects
 
-<img src="https://progress-bar.dev/10/?title=C Dungeon Simulator" />
+<img src="https://progress-bar.dev/10/?title=cSDNG - C Single Dungeon" />
 
 <img src="https://progress-bar.dev/10/?title=The Bard and Bird Bookstore" />
 
