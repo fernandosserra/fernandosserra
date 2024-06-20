@@ -32,6 +32,7 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 
 ## Estudando atualmente / Currently studying
 
+  - Python
   - HTML
   - CSS
   - JavaScript
