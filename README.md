@@ -23,11 +23,9 @@ Information Technology Management Student at FAM - Centro Universit√°rio das Am√
 I like computing, poetry, games, learning about other cultures, peoples, languages and literature.
 ```
 
-## Projetos ativos no momento / Currently active projects
+## Cursos ativos no momento / Currently active courses
 
-<img src="https://progress-bar.dev/10/?title=cSDNG - C Single Dungeon" />
-
-<img src="https://progress-bar.dev/10/?title=The Bard and Bird Bookstore" />
+<img src="https://progress-bar.dev/30/?title=Python 3 Udemy Course" />
 
 
 ## Estudando atualmente / Currently studying
