@@ -45,5 +45,5 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 - I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.com)
 - Gosto de escrever artigos para ajudar as pessoas, atualmente publico em Português no [Medium](https://siegrfried.medium.com)
 - I like to write articles to help people, I currently publish in English on [Dev.To](https://dev.to/fernandosserra)
-- Sou pai, casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em atuar como desenvolvedor e meu grande objetivo é tornar a tecnologia mais humana e desenvolver programas que sejam bons exemplos de acessibilidade.
-- I am a father, married, I like to know new things and people, I am very interested in working as a developer and my main objective is to make technology more human and to develop programs that are good examples of accessibility.
+- Sou casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em atuar como desenvolvedor e meu grande objetivo é tornar a tecnologia mais humana e desenvolver programas que sejam bons exemplos de acessibilidade.
+- I am married, I like to know new things and people, I am very interested in working as a developer and my main objective is to make technology more human and to develop programs that are good examples of accessibility.
