@@ -45,13 +45,11 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 <div align="center">
 
   :snake: Python
-  :page_with_curl: HTML
-  :clipboard: CSS
-  :bookmark_tabs: JavaScript
-  :coffee: Java
   :ocean: C
-  :small_red_triangle: Angular
+  :bird: Haskell
   :floppy_disk: MySQL
+  :briefcase: SQLite
+  :tropical_fish: Flet
 
 </div>
 
