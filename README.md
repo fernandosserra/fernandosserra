@@ -34,10 +34,22 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
 <h3 align="center">Rotas de Aprendizagem ativas no momento: / Active Learning Paths</h3>
 
 <div align="center">
+PT:
 
-[DIO: Bootcamp Microsoft Github Copilot](https://web.dio.me/track/e7f4bf72-ac41-4e6e-84bd-3f1377ca57f3)
+[FAMEF: Pós Graduação em Ciência de Dados e Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
+
+[FAMEF: Pós Graduação em Inteligência Artificial e Tecnologias Educacionais](https://www.famef.edu.br/curso-pos-ead/1507/)
 
 [Udemy: Python 3 do básico ao avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
+
+EN:
+
+[FAMEF: Postgraduate in Data Science and Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
+
+[FAMEF: Postgraduate in Artificial Intelligence and Educational Technologies](https://www.famef.edu.br/curso-pos-ead/1507/)
+
+[Udemy: Python 3 from Basic to Advanced](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
+
 </div>
 
 <h3 align="center">Estudando atualmente / Currently studying</h3>
