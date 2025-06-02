@@ -68,7 +68,7 @@ EN:
 <h3 align="center">Curiosidades sobre mim</h3>
 <div align="center">
 
-Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.com)
+Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
 Gosto de escrever artigos para ajudar as pessoas, atualmente publico em Português no [Medium](https://siegrfried.medium.com)
 
@@ -76,7 +76,7 @@ Sou casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em a
 <h3 align="center">My Trivia</h3>
 <div align="center">
 
-I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.com)
+I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
 I like to write articles to help people, I currently publish in English on [Dev.To](https://dev.to/fernandosserra)
 
