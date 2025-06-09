@@ -14,18 +14,23 @@
 </div>
 
 
+<h2 align="center">Quem é o Fernando? / Who is Fernando? <br></h2>
+<div align="left">
 
-<h2 align="center">Olá, eu sou o Fernando! / Hello, I'm Fernando <br></h2>
-<div align="center">
+<h3 align="left">PT-Br</h3>
 
-Tecnólogo em Gestão da Tecnologia da Informação pela FAM - Centro Universitário das Américas.
-Pós-graduando em Ciência de Dados e Big Data Analytics pela FAMEF - Faculdade Metropolitana de Franca.
-Pós-graduando em Inteligência Artificial e Tecnologias Educacionais pela FAMEF - Faculdade Metropolitana de Franca.
+- Tecnólogo em Gestão da Tecnologia da Informação pela FAM - Centro Universitário das Américas.
+- Pós-graduando em Ciência de Dados e Big Data Analytics pela FAMEF - Faculdade Metropolitana de Franca.
+- Pós-graduando em Inteligência Artificial e Tecnologias Educacionais pela FAMEF - Faculdade Metropolitana de Franca.
+
 Tenho paixão por computação, poesia, jogos e por aprender sobre outras culturas, povos, idiomas e literatura.
 
-Technologist in Information Technology Management from FAM - Centro Universitário das Américas.
-Postgraduate student in Data Science and Big Data Analytics at FAMEF - Faculdade Metropolitana de Franca.
-Postgraduate student in Artificial Intelligence and Educational Technologies at FAMEF - Faculdade Metropolitana de Franca.
+<h3 align="left">EN-US</h3>
+
+- Technologist in Information Technology Management from FAM - Centro Universitário das Américas.
+- Postgraduate student in Data Science and Big Data Analytics at FAMEF - Faculdade Metropolitana de Franca.
+- Postgraduate student in Artificial Intelligence and Educational Technologies at FAMEF - Faculdade Metropolitana de Franca.
+
 I am passionate about computing, poetry, games, and learning about other cultures, peoples, languages, and literature.
 
 </div>
@@ -40,10 +45,22 @@ I am passionate about computing, poetry, games, and learning about other culture
 <h3 align="center">Rotas de Aprendizagem ativas no momento: / Active Learning Paths</h3>
 
 <div align="center">
+PT:
 
-[DIO: Bootcamp Microsoft Github Copilot](https://web.dio.me/track/e7f4bf72-ac41-4e6e-84bd-3f1377ca57f3)
+[FAMEF: Pós Graduação em Ciência de Dados e Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
+
+[FAMEF: Pós Graduação em Inteligência Artificial e Tecnologias Educacionais](https://www.famef.edu.br/curso-pos-ead/1507/)
 
 [Udemy: Python 3 do básico ao avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
+
+EN:
+
+[FAMEF: Postgraduate in Data Science and Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
+
+[FAMEF: Postgraduate in Artificial Intelligence and Educational Technologies](https://www.famef.edu.br/curso-pos-ead/1507/)
+
+[Udemy: Python 3 from Basic to Advanced](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
+
 </div>
 
 <h3 align="center">Estudando atualmente / Currently studying</h3>
@@ -66,7 +83,7 @@ I am passionate about computing, poetry, games, and learning about other culture
 <h3 align="center">Curiosidades sobre mim</h3>
 <div align="center">
 
-Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.com)
+Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
 Gosto de escrever artigos para ajudar as pessoas, atualmente publico em Português no [Medium](https://siegrfried.medium.com)
 
@@ -74,7 +91,7 @@ Sou casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em a
 <h3 align="center">My Trivia</h3>
 <div align="center">
 
-I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.com)
+I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
 I like to write articles to help people, I currently publish in English on [Dev.To](https://dev.to/fernandosserra)
 
