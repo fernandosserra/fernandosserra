@@ -42,27 +42,6 @@ I am passionate about computing, poetry, games, and learning about other culture
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandosserra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h3 align="center">Rotas de Aprendizagem ativas no momento: / Active Learning Paths</h3>
-
-<div align="center">
-PT:
-
-[FAMEF: Pós Graduação em Ciência de Dados e Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
-
-[FAMEF: Pós Graduação em Inteligência Artificial e Tecnologias Educacionais](https://www.famef.edu.br/curso-pos-ead/1507/)
-
-[Udemy: Python 3 do básico ao avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
-
-EN:
-
-[FAMEF: Postgraduate in Data Science and Big Data Analytics](https://www.famef.edu.br/curso-pos-ead/1189/)
-
-[FAMEF: Postgraduate in Artificial Intelligence and Educational Technologies](https://www.famef.edu.br/curso-pos-ead/1507/)
-
-[Udemy: Python 3 from Basic to Advanced](https://www.udemy.com/course/python-3-do-zero-ao-avancado/?couponCode=KEEPLEARNING)
-
-</div>
-
 <h3 align="center">Estudando atualmente / Currently studying</h3>
 
 <div align="center">
@@ -73,7 +52,7 @@ EN:
   :floppy_disk: MySQL
   :briefcase: SQLite
   :tropical_fish: Flet
-  :formulary: Streamlit
+  :chart_with_upwards_trend: Streamlit
   :cloud: Azure
   :robot: AI
   :chart_with_downwards_trend: Data Science
