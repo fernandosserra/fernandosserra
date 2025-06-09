@@ -60,7 +60,7 @@ I am passionate about computing, poetry, games, and learning about other culture
 </div>
 
 <h3 align="center">Curiosidades sobre mim</h3>
-<div align="center">
+<div align="left">
 
 Eu mantenho um podcast de poesia, gastronomia e cultura, chamado: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
@@ -68,7 +68,7 @@ Gosto de escrever artigos para ajudar as pessoas, atualmente publico em Portugu√
 
 Sou casado, gosto de conhecer coisas e pessoas novas, tenho muito interesse em atuar como desenvolvedor e meu grande objetivo √© tornar a tecnologia mais humana e desenvolver programas que sejam bons exemplos de acessibilidade.</div>
 <h3 align="center">My Trivia</h3>
-<div align="center">
+<div align="left">
 
 I maintain a poetry, gastronomy and culture podcast called: [Poesia de Cozinha](https://poesiadecozinha.wordpress.com)
 
