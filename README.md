@@ -18,11 +18,17 @@
 <h2 align="center">Olá, eu sou o Fernando! / Hello, I'm Fernando <br></h2>
 <div align="center">
 
-Estudante de Gestão de Tecnologia da Informação pela FAM - Centro Universitário das Américas, 
-gosto de computação, poesia, jogos, aprender sobre outras culturas, povos, idiomas e literatura.
+Tecnólogo em Gestão da Tecnologia da Informação pela FAM - Centro Universitário das Américas.
+Pós-graduando em Ciência de Dados e Big Data Analytics pela FAMEF - Faculdade Metropolitana de Franca.
+Pós-graduando em Inteligência Artificial e Tecnologias Educacionais pela FAMEF - Faculdade Metropolitana de Franca.
+Tenho paixão por computação, poesia, jogos e por aprender sobre outras culturas, povos, idiomas e literatura.
 
-Information Technology Management Student at FAM - Centro Universitário das Américas,
-I like computing, poetry, games, learning about other cultures, peoples, languages and literature.</div>
+Technologist in Information Technology Management from FAM - Centro Universitário das Américas.
+Postgraduate student in Data Science and Big Data Analytics at FAMEF - Faculdade Metropolitana de Franca.
+Postgraduate student in Artificial Intelligence and Educational Technologies at FAMEF - Faculdade Metropolitana de Franca.
+I am passionate about computing, poetry, games, and learning about other cultures, peoples, languages, and literature.
+
+</div>
 
 <h2 align="center">Stats</h2>
 
@@ -50,6 +56,10 @@ I like computing, poetry, games, learning about other cultures, peoples, languag
   :floppy_disk: MySQL
   :briefcase: SQLite
   :tropical_fish: Flet
+  :formulary: Streamlit
+  :cloud: Azure
+  :robot: AI
+  :chart_with_downwards_trend: Data Science
 
 </div>
 
